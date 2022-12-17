@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [สอนสร้าง Kubernetes Cluster ด้วย Kubeadm](https://medium.com/@sathabhronchangchuea/%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-kubernetes-cluster-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-kubeadm-8b154e0007c8?source=rss-aab7ae8f07f6------2)
+- [Kubernetes ความเเตกต่างระว่าง Deployments, StatefulSets, DaemonSets](https://medium.com/@sathabhronchangchuea/kubernetest-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B9%80%E0%B8%95%E0%B8%81%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-deployments-statefulsets-daemonsets-1ea91453e61e?source=rss-aab7ae8f07f6------2)
+- [สอน Helm Chart เเละทำความเข้าใจ Concept หลัก](https://medium.com/@sathabhronchangchuea/%E0%B8%AA%E0%B8%AD%E0%B8%99-helm-chart-%E0%B9%80%E0%B9%80%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88-concept-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81-871bf39d4fe0?source=rss-aab7ae8f07f6------2)
+- [เริ่มต้นใช้งาน Kubernetes เเบบ Simple สุดๆ](https://medium.com/@sathabhronchangchuea/%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-kubernetes-%E0%B9%80%E0%B9%80%E0%B8%9A%E0%B8%9A-simple-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%86-895c41c847a4?source=rss-aab7ae8f07f6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
