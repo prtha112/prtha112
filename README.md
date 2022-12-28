@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm prtha112</h1>
+<h1 align="center">Hi 👋, I'm Tha</h1>
 <h3 align="center">I am currently working as a DevOps Engineer.</h3>
 <p align="center">
   <img height="200" src="https://i.pinimg.com/originals/8a/4b/29/8a4b2951790bfa8a9ea10b0b016828e5.gif"/>
