@@ -24,7 +24,6 @@ technical_background:
   [
     "DevOps Engineer",
     "Data Analyst",
-    "DevOps Engineer",
     "Assistant Manager Management Information Systems",
     "Database administrator",
     "Intern - It support",
