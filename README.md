@@ -7,5 +7,7 @@
 - 🔭 I’m currently working on **DevOps Engineer**
 - ⚡ Fun fact **I'm always ready to learn**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prtha112&show_icons=true&locale=en" alt="prtha112" />
+<a href="https://github.com/thepiyushmalhotra">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prtha112&theme=noctis_minimus&show_icons=true&locale=en" alt="prtha112" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prtha112&" alt="prtha112" />
+</a>
