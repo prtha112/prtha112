@@ -8,6 +8,6 @@
 - ⚡ Fun fact **I'm always ready to learn**
 
 <a href="https://github.com/thepiyushmalhotra">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prtha112&theme=noctis_minimus&show_icons=true&locale=en" alt="prtha112" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prtha112&" alt="prtha112" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prtha112&theme=noctis_minimus&show_icons=true&locale=en" alt="prtha112" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtha112&theme=noctis_minimus&layout=compact" />
 </a>
