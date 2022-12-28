@@ -33,8 +33,8 @@ technical_background:
 --- 
 
 <a href="https://github.com/thepiyushmalhotra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prtha112&theme=noctis_minimus&show_icons=true&locale=en" alt="prtha112" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtha112&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prtha112&theme=omni&show_icons=true&locale=en" alt="prtha112" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtha112&theme=omni&layout=compact" />
 </a>
 
 ![Snake animation](https://raw.githubusercontent.com/prtha112/prtha112/b03cd34c9ef13400dd2a05005f0bc5d5bdec6a26/github-contribution-grid-snake.svg)
