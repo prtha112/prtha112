@@ -9,25 +9,25 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-```yaml
-name: Tha
-current_job: DevOps Engineer
 
-fields_of_interests:
-  [
+```javascript
+const thai = {
+  name: "Tha",
+  current_job: "DevOps Engineer",
+  fields_of_interests: [
     "Machine Learning",
     "DevOps Engineer",
     "Network",
     "Cloud Solutions Architect"
-  ]
-technical_background:
-  [
+  ],
+  technical_background: [
     "DevOps Engineer",
     "Data Analyst",
     "Assistant Manager Management Information Systems",
     "Database administrator",
     "Intern - It support",
   ]
+}
 ```
 
 --- 
