@@ -11,7 +11,7 @@
 
 
 ```javascript
-const thai = {
+const profile = {
   name: "Tha",
   current_job: "DevOps Engineer",
   fields_of_interests: [
