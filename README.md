@@ -33,7 +33,7 @@ const profile = {
 
 --- 
 
-<a href="https://github.com/thepiyushmalhotra">
+<a href="https://github.com/prtha112">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prtha112&theme=omni&show_icons=true&locale=en" alt="prtha112" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtha112&theme=omni&layout=compact" />
 </a>
