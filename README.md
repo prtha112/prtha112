@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tha</h1>
-<h3 align="center">I love Nong.Winter so much.<img height="20" src="https://github.com/prtha112/prtha112/blob/main/snowflake.gif?raw=true"/></h3>
+<h3 align="center">I love Nong.Winter so much.<img height="30" src="https://github.com/prtha112/prtha112/blob/main/snowflake.gif?raw=true"/></h3>
 <p align="center">
   <img height="200" src="https://github.com/prtha112/prtha112/blob/main/winter_gif.gif?raw=true"/>
 </p>
