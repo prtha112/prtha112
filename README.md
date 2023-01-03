@@ -34,8 +34,8 @@ const profile = {
 --- 
 
 <a href="https://github.com/prtha112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prtha112&theme=omni&show_icons=true&locale=en" alt="prtha112" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtha112&theme=omni&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prtha112&theme=outrun&show_icons=true&locale=en" alt="prtha112" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtha112&theme=outrun&layout=compact" />
 </a>
 
 ![Snake animation](https://raw.githubusercontent.com/prtha112/prtha112/output/github-contribution-grid-snake.svg)
