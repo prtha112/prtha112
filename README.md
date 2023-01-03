@@ -20,12 +20,13 @@ const profile = {
     "Network",
     "Cloud Solutions Architect"
   ],
-  technical_background: [
-    "DevOps Engineer",
-    "Data Analyst",
-    "Assistant Manager Management Information Systems",
-    "Database administrator",
-    "Intern - It support",
+  work_experience: [
+    "2022 - Now : DevOps Engineer",
+    "2021 - 2022 : Data Analyst",
+    "2020 - 2021 : DevOps Engineer",
+    "2018 - 2019 : Assistant Manager Management Information Systems",
+    "2016 - 2018 : Database administrator",
+    "2015 : Intern - It support",
   ]
 }
 ```
