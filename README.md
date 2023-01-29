@@ -16,8 +16,7 @@ const profile = {
   current_job: "DevOps Engineer",
   fields_of_interests: [
     "Machine Learning",
-    "DevOps Engineer",
-    "Network",
+    "DevSecOps Engineer",
     "Cloud Solutions Architect"
   ],
   work_experience: [
