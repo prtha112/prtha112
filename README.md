@@ -13,12 +13,6 @@
 ```javascript
 const profile = {
   name: "Tha",
-  current_job: "DevOps Engineer",
-  fields_of_interests: [
-    "Machine Learning",
-    "DevSecOps Engineer",
-    "Cloud Solutions Architect"
-  ],
   work_experience: [
     "2022 - Now : DevOps Engineer",
     "2021 - 2022 : Data Analyst",
