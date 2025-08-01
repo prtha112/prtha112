@@ -4,8 +4,10 @@
   <img height="200" src="https://github.com/prtha112/prtha112/blob/main/winter_gif.gif?raw=true"/>
 </p>
 
-- 🔭 I’m currently working on **DevOps Engineer**
-- ⚡ Fun fact **I'm always ready to learn**
+- 🔧 I’m currently working as a Senior DevOps Engineer, passionate about automating infrastructure and optimizing cloud-native systems.
+- 🌱 Always eager to learn new tools, best practices, and technologies to enhance system reliability and developer productivity.
+- 🚀 Let’s build something great together!
+
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
