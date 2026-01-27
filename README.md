@@ -16,7 +16,8 @@
 const profile = {
   name: "Tha",
   work_experience: [
-    "2022 - Now : DevOps Engineer",
+    "2024 - Now : Senior DevOps Engineer",
+    "2022 - 2024 : DevOps Engineer",
     "2021 - 2022 : Data Analyst",
     "2020 - 2021 : DevOps Engineer",
     "2018 - 2019 : Assistant Manager Management Information Systems",
